@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-talk",
+          title: "talk",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talk/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -23,7 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "news-going-to-nemi-2025",
+          title: 'Going to NEMI 2025',
+          description: "",
+          section: "News",},{id: "news-presenting-our-works-on-ecostability-at-cmt-kids-seminar-harvard-university",
+          title: 'Presenting our works on ecostability at CMT Kids Seminar, Harvard University',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
