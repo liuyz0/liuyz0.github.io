@@ -36,6 +36,9 @@ ninja.data = [{
           section: "News",},{id: "news-presenting-our-works-on-ecostability-at-cmt-kids-seminar-harvard-university",
           title: 'Presenting our works on ecostability at CMT Kids Seminar, Harvard University',
           description: "",
+          section: "News",},{id: "news-our-paper-superposition-yields-robust-neural-scaling-has-been-accepted-at-neurips-2025-as-an-oral-see-you-at-san-diego",
+          title: 'Our paper, Superposition Yields Robust Neural Scaling, has been accepted at NeurIPS 2025...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
