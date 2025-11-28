@@ -39,6 +39,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-superposition-yields-robust-neural-scaling-has-been-accepted-at-neurips-2025-as-an-oral-see-you-at-san-diego",
           title: 'Our paper, Superposition Yields Robust Neural Scaling, has been accepted at NeurIPS 2025...',
           description: "",
+          section: "News",},{id: "news-our-paper-superposition-yields-robust-neural-scaling-received-best-paper-runner-up-award-at-neurips-2025-come-to-our-oral-4a-language-model-2-session-thu-4-dec-4-10-p-m-pst-4-30-p-m-pst-and-the-poster-session-right-after-exhibit-hall-c-d-e-3717-see-you-in-san-diego",
+          title: 'Our paper, Superposition Yields Robust Neural Scaling received Best Paper Runner-up Award at...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
