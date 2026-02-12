@@ -3,6 +3,21 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{liu2026universal,
+      title={Universal One-third Time Scaling in Learning Peaked Distributions}, 
+      author={Liu, Yizhou and Liu, Ziming and Pehlevan, Cengiz and Gore, Jeff},
+      year={2026},
+      month = feb,
+      journal = {arXiv preprint arXiv:2602.03685},
+      pdf = {https://arxiv.org/abs/2602.03685},
+      html = {https://arxiv.org/html/2602.03685},
+      url = {https://arxiv.org/abs/2602.03685},
+      code = {https://github.com/liuyz0/TimeScaling},
+      preview = {timescaling.png},
+      additional_info={. Power-law learning curve in LLMs is due to softmax and cross-entropy, which intrinsically lead to power-law loss and gradient in learning peaked distributions (e.g., next-token prediction) and ultimately yield loss scaling with time with a universal exponent 1/3},
+      selected={true} 
+}
+
 @article{liu2025superpositionyieldsrobustneural,
       title={Superposition Yields Robust Neural Scaling}, 
       author={Yizhou Liu and Ziming Liu and Jeff Gore},
@@ -17,6 +32,21 @@
       additional_info={. Superposition means that models represent more features than dimensions they have, 
       which is true for LLMs. 
       We find that superposition leads to a power-law loss with model size (width) without assuming power laws in data due to intrinsic geometric constraints of representations},
+      selected={true} 
+}
+
+@article{liu2026inverse,
+      title={Inverse Depth Scaling From Most Layers Being Similar}, 
+      author={Liu, Yizhou and Kangaslahti, Sara and Liu, Ziming and Gore, Jeff},
+      year={2026},
+      month = feb,
+      journal = {arXiv preprint arXiv:2602.05970},
+      pdf = {https://arxiv.org/abs/2602.05970},
+      html = {https://arxiv.org/html/2602.05970},
+      url = {https://arxiv.org/abs/2602.05970},
+      code = {https://github.com/liuyz0/DepthScaling},
+      preview = {depthscaling.png},
+      additional_info={. We find loss scales inversely proportional to depth in LLMs, probably due to functionally similar layers reducing error through ensemble averaging rather than compositional learning or discretizing smooth dynamics},
       selected={true} 
 }
 
@@ -74,5 +104,5 @@ selected={true}
   preview={Liu2023quantum.png},
   additional_info={. We analyzed when and why quantum tunneling can provide algorithmic speedup for nonconvex optimization (quantum tunneling vs. thermal fluctuation)},
   code = {https://github.com/liuyz0/Quantum-tunneling},
-  selected={true}
+  selected={false}
 }

@@ -11,6 +11,11 @@ horizontal: false
 
 # **2025**
 
+## December
+> [Superposition Yields Robust Neural Scaling](https://neurips.cc/virtual/2025/loc/san-diego/oral/116347)
+>
+> *NeurIPS 2025 (Oral Presentation), San Diego, California*
+
 ## September
 > Structure matters: Ecosystem stability relies on diversity difference between trophic levels
 > 

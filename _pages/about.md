@@ -22,7 +22,7 @@ Hello! My name is Yizhou (⛵) and I am a PhD student at [MechE, MIT](https://me
 
 * **Ecology and Evolution**: I study how species form communities and maintain their diversity and stability. My work emphasizes mechanistic understanding - examining how specific interaction mechanisms (like competition for food or space) shape community dynamics and evolution. 
 
-* **Physics of AI**: I investigate the fundamental elements of artificial intelligence - optimizers, data, and architectures - to understand how they generate observed phenomena (like neural scaling laws). I hope to use the understanding to design more powerful AI systems.
+* **Physics of AI**: I investigate the fundamental elements of artificial intelligence - optimizers, data, and architectures - to understand how they generate observed phenomena (like neural scaling laws). I hope to use the understanding to design more efficient and interpretable AI systems.
 
 Prior to my graduate studies, I received my B.E. from the Tsien Excellence in Engineering Program at Tsinghua University. During my time there, I worked with Professors [Tongyang Li](https://www.tongyangli.com/), [Weijie Su](https://statistics.wharton.upenn.edu/profile/suw/), Shunlong Luo, and Min Chen on various topics.
 
@@ -30,7 +30,7 @@ While my research spans diverse topics, the methods may remain similar. Accordin
 
 * **Topics**: University departments are mainly organized by subject matter, but methodology, taste, and analytical approach can bridge disciplines. My work is unified by methodology rather than field boundaries.
 
-* **Relevance**: Although it is hard to see whether a work can be immediantly useful or not, it is relatively easy to see whether it can ever be useful, which defines its relevance to the reality. I want to do more useful works in general.
+* **Relevance**: Although it is hard to see whether a work can be immediately useful or not, it is relatively easy to see whether it can ever be useful, which defines its relevance to the reality. I want to do more useful works in general.
 
 * **Elegancy**: I seek results or principles that are both simple and non-trivial.
 
