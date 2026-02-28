@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-going-to-nemi-2025",
+        },{id: "post-neural-scaling-laws-trilogy-representation-transformation-and-training",
+      
+        title: "Neural Scaling Laws Trilogy: Representation, Transformation, and Training",
+      
+      description: "full picture of the origins of neural scaling laws",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/NSLT/";
+        
+      },
+    },{id: "news-going-to-nemi-2025",
           title: 'Going to NEMI 2025',
           description: "",
           section: "News",},{id: "news-presenting-our-works-on-ecostability-at-cmt-kids-seminar-harvard-university",
