@@ -32,7 +32,7 @@ While my research spans diverse topics, the methods may remain similar. Accordin
 
 * **Relevance**: Although it is hard to see whether a work can be immediately useful or not, it is relatively easy to see whether it can ever be useful, which defines its relevance to the reality. I want to do more useful works in general.
 
-* **Elegancy**: I seek results or principles that are both simple and non-trivial.
+* **Elegance**: I seek results or principles that are both simple and non-trivial.
 
 * **Methods**: One Two Three (Dynamical systems)...Infinity (Statistical mechanics). In [One Two Three...Infinity](https://books.google.com/books/about/One_Two_Three_Infinity.html?id=EZbcwk6SkhcC) by G. Gamow, there is a story that Hottentot tribes do not have in their vocabulary the numbers larger than three and simply use "many" for the larger numbers. Similarly, our best analytical understanding comes from either simple systems or thermodynamic limits.
 

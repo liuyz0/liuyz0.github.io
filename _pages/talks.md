@@ -9,6 +9,13 @@ display_categories:
 horizontal: false
 ---
 
+# **2026**
+
+## March
+> [Neural Scaling Laws Trilogy: Representation, Transformation, and Training](https://summit.aps.org/smt/2026/events/MAR-U57/13)
+>
+> *APS March Meeting 2026, Denver, Colorado*
+
 # **2025**
 
 ## December
