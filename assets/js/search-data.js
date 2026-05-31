@@ -56,6 +56,9 @@ ninja.data = [{
           section: "News",},{id: "news-going-to-present-neural-scaling-laws-trilogy-representation-transformation-and-training-at-aps-march-meeting-2026-the-talk-will-be-on-thu-19-mar-2026-2-48-p-m-3-00-p-m-in-bluebird-2a",
           title: 'Going to present “Neural Scaling Laws Trilogy: Representation, Transformation, and Training” at APS...',
           description: "",
+          section: "News",},{id: "news-our-papers-universal-one-third-time-scaling-in-learning-peaked-distributions-and-inverse-depth-scaling-from-most-layers-being-similar-are-accepted-at-icml-2026",
+          title: 'Our papers, Universal One-third Time Scaling in Learning Peaked Distributions and Inverse Depth...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
